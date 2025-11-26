@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.env
+.env.local
+node_modules/
+frontend/.next/
+frontend/node_modules/
+*.egg-info
+*.sqlite3

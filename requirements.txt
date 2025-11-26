@@ -1,2 +1,6 @@
-flask>=2.3
-requests>=2.31
+fastapi==0.101.1
+yt-dlp==2025.11.27
+httpx==0.24.1
+uvicorn==0.22.0
+slowapi==0.1.7
+python-multipart==0.0.6
